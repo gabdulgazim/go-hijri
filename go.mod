@@ -1,4 +1,4 @@
-module github.com/hablullah/go-hijri
+module github.com/gabdulgazim/go-hijri
 
 go 1.12
 
