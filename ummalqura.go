@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/hablullah/go-juliandays"
+	"github.com/gabdulgazim/go-juliandays"
 )
 
 // UmmAlQuraDate is a date that uses astronomical-based Islamic calendar system that used in Saudi Arabia.
