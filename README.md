@@ -5,6 +5,11 @@ please refer to [hablullah/go-hijri](github.com/hablullah/go-hijri)
 [![Go Report Card][report-badge]][report-url]
 [![Go Reference][doc-badge]][doc-url]
 
+### Installation
+```bash
+ go get github.com/gabdulgazimgo-hijri 
+```
+
 Go-Hijri is a Go package for converting Gregorian date to Hijrian date and vice-versa. There are two supported Hijrian calendar :
 
 - the arithmetic calendar which calculated based on arithmetic rules rather than by observation or astronomical calculation,
