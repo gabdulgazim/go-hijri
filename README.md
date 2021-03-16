@@ -1,4 +1,6 @@
-# Go-Hijri
+# Go-Hijri Fork
+
+please refer to [hablullah/go-hijri](github.com/hablullah/go-hijri)
 
 [![Go Report Card][report-badge]][report-url]
 [![Go Reference][doc-badge]][doc-url]
