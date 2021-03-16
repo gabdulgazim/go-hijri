@@ -7,7 +7,7 @@ please refer to [hablullah/go-hijri](github.com/hablullah/go-hijri)
 
 ### Installation
 ```bash
- go get github.com/gabdulgazimgo-hijri 
+ go get github.com/gabdulgazim/go-hijri 
 ```
 
 Go-Hijri is a Go package for converting Gregorian date to Hijrian date and vice-versa. There are two supported Hijrian calendar :
