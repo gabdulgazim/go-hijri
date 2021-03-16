@@ -1,4 +1,5 @@
-module github.com/gabdulgazim/go-hijri
+
+replace github.com/habdulla/go-hijri => github.com/gabdulgazim/go-hijri
 
 go 1.12
 
